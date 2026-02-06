@@ -11,14 +11,14 @@ class ComposerStaticInit5b8fa284bf852263974f1227edb89665
     );
 
     public static $prefixLengthsPsr4 = array (
-        'M' => 
+        'M' =>
         array (
             'Mailchimp\\WordPress\\' => 20,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Mailchimp\\WordPress\\' => 
+        'Mailchimp\\WordPress\\' =>
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
